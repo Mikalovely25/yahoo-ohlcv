@@ -28,10 +28,13 @@ jobs:
       - name: Update database
         run: python update_db.py
 
-      - name: Save database
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add stocks.db
-          git commit -m "Update stock data" || echo "No changes"
-          git push
+      - name: Export JSON
+        run: python export_json.py
+
+      - name: Save data
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git add stocks.db data/
+    git commit -m "Update stock data" || echo "No changes"
+    git push
