@@ -1,0 +1,2198 @@
+[
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-19",
+    "open": 63.0,
+    "high": 63.0,
+    "low": 59.0,
+    "close": 61.0,
+    "volume": 4700675900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-20",
+    "open": 61.0,
+    "high": 61.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 1633624900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-21",
+    "open": 61.0,
+    "high": 62.0,
+    "low": 59.0,
+    "close": 61.0,
+    "volume": 2876999000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-22",
+    "open": 60.0,
+    "high": 62.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 2296673100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-25",
+    "open": 61.0,
+    "high": 62.0,
+    "low": 60.0,
+    "close": 60.0,
+    "volume": 1569532300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-26",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 61.0,
+    "volume": 7395943700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-27",
+    "open": 61.0,
+    "high": 61.0,
+    "low": 60.0,
+    "close": 60.0,
+    "volume": 1096892600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-28",
+    "open": 60.0,
+    "high": 60.0,
+    "low": 59.0,
+    "close": 59.0,
+    "volume": 911818300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-08-29",
+    "open": 60.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 58.0,
+    "volume": 3597693700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-01",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 58.0,
+    "volume": 2405006300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-02",
+    "open": 58.0,
+    "high": 59.0,
+    "low": 57.0,
+    "close": 58.0,
+    "volume": 1376538200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-03",
+    "open": 58.0,
+    "high": 59.0,
+    "low": 57.0,
+    "close": 58.0,
+    "volume": 1273540500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-04",
+    "open": 58.0,
+    "high": 59.0,
+    "low": 57.0,
+    "close": 59.0,
+    "volume": 1621019900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-08",
+    "open": 59.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 58.0,
+    "volume": 1947303100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-09",
+    "open": 58.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 56.0,
+    "volume": 3224398200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-10",
+    "open": 57.0,
+    "high": 57.0,
+    "low": 56.0,
+    "close": 56.0,
+    "volume": 1414873900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-11",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 57.0,
+    "volume": 2362188800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-12",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 57.0,
+    "volume": 1246327000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-15",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 57.0,
+    "volume": 1680677100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-16",
+    "open": 57.0,
+    "high": 57.0,
+    "low": 55.0,
+    "close": 57.0,
+    "volume": 5081307500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-17",
+    "open": 56.0,
+    "high": 57.0,
+    "low": 56.0,
+    "close": 57.0,
+    "volume": 1490814900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-18",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 55.0,
+    "close": 56.0,
+    "volume": 3626324000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-19",
+    "open": 56.0,
+    "high": 56.0,
+    "low": 55.0,
+    "close": 55.0,
+    "volume": 8566178900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-22",
+    "open": 55.0,
+    "high": 55.0,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 2383689900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-23",
+    "open": 54.0,
+    "high": 55.0,
+    "low": 53.0,
+    "close": 54.0,
+    "volume": 4157100100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-24",
+    "open": 54.0,
+    "high": 54.0,
+    "low": 53.0,
+    "close": 53.0,
+    "volume": 1352485600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-25",
+    "open": 53.0,
+    "high": 57.0,
+    "low": 53.0,
+    "close": 55.0,
+    "volume": 6438375700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-26",
+    "open": 55.0,
+    "high": 57.0,
+    "low": 55.0,
+    "close": 57.0,
+    "volume": 3564352500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-29",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 56.0,
+    "volume": 1739822200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-09-30",
+    "open": 56.0,
+    "high": 57.0,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 3758567500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-01",
+    "open": 55.0,
+    "high": 55.0,
+    "low": 53.0,
+    "close": 55.0,
+    "volume": 3502080800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-02",
+    "open": 55.0,
+    "high": 55.0,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 1790087100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-03",
+    "open": 55.0,
+    "high": 58.0,
+    "low": 54.0,
+    "close": 57.0,
+    "volume": 8175859900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-06",
+    "open": 58.0,
+    "high": 60.0,
+    "low": 57.0,
+    "close": 57.0,
+    "volume": 4529777600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-07",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 56.0,
+    "volume": 2119953500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-08",
+    "open": 57.0,
+    "high": 57.0,
+    "low": 55.0,
+    "close": 56.0,
+    "volume": 985459900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-09",
+    "open": 56.0,
+    "high": 56.0,
+    "low": 55.0,
+    "close": 55.0,
+    "volume": 1552248700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-10",
+    "open": 56.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 1869557400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-13",
+    "open": 54.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 2250752100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-14",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 3714251200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-15",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 2080781400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-16",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 1139962100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-17",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 2350367900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-20",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 3051389000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-21",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 56.0,
+    "volume": 1916916800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-22",
+    "open": 56.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 54.0,
+    "volume": 1072230600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-23",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 56.0,
+    "volume": 1122900600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-24",
+    "open": 56.0,
+    "high": 56.0,
+    "low": 55.0,
+    "close": 55.0,
+    "volume": 865633200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-27",
+    "open": 56.0,
+    "high": 57.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 5325151600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-28",
+    "open": 54.0,
+    "high": 56.0,
+    "low": 54.0,
+    "close": 55.0,
+    "volume": 1717311400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-29",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 55.0,
+    "close": 56.0,
+    "volume": 924175800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-30",
+    "open": 58.0,
+    "high": 60.0,
+    "low": 57.0,
+    "close": 60.0,
+    "volume": 10550240400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-10-31",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 58.0,
+    "close": 60.0,
+    "volume": 4058420600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-03",
+    "open": 60.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 59.0,
+    "volume": 1787709700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-04",
+    "open": 59.0,
+    "high": 60.0,
+    "low": 57.0,
+    "close": 57.0,
+    "volume": 2872514200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-05",
+    "open": 57.0,
+    "high": 63.0,
+    "low": 56.0,
+    "close": 62.0,
+    "volume": 11797419300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-06",
+    "open": 62.0,
+    "high": 63.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 2792568800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-07",
+    "open": 61.0,
+    "high": 63.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 3833751700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-10",
+    "open": 64.0,
+    "high": 69.0,
+    "low": 64.0,
+    "close": 67.0,
+    "volume": 14345482000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-11",
+    "open": 68.0,
+    "high": 70.0,
+    "low": 65.0,
+    "close": 67.0,
+    "volume": 10123937400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-12",
+    "open": 69.0,
+    "high": 70.0,
+    "low": 65.0,
+    "close": 65.0,
+    "volume": 6511203800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-13",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 63.0,
+    "close": 64.0,
+    "volume": 5228092900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-14",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 63.0,
+    "close": 65.0,
+    "volume": 2688127300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-17",
+    "open": 64.0,
+    "high": 65.0,
+    "low": 61.0,
+    "close": 62.0,
+    "volume": 4772617200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-18",
+    "open": 62.0,
+    "high": 62.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 3441374500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-19",
+    "open": 61.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 60.0,
+    "volume": 3613895900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-20",
+    "open": 61.0,
+    "high": 62.0,
+    "low": 60.0,
+    "close": 60.0,
+    "volume": 2875493100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-21",
+    "open": 60.0,
+    "high": 64.0,
+    "low": 60.0,
+    "close": 64.0,
+    "volume": 5357554500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-24",
+    "open": 65.0,
+    "high": 68.0,
+    "low": 64.0,
+    "close": 65.0,
+    "volume": 12188506300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-25",
+    "open": 66.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 65.0,
+    "volume": 2198091500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-26",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 65.0,
+    "volume": 1781677400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-27",
+    "open": 64.0,
+    "high": 66.0,
+    "low": 63.0,
+    "close": 65.0,
+    "volume": 2847805200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-11-28",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 2270637900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-01",
+    "open": 64.0,
+    "high": 67.0,
+    "low": 64.0,
+    "close": 67.0,
+    "volume": 4333478300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-02",
+    "open": 67.0,
+    "high": 67.0,
+    "low": 64.0,
+    "close": 65.0,
+    "volume": 4418422800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-03",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 1956436600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-04",
+    "open": 64.0,
+    "high": 65.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 1341546300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-05",
+    "open": 64.0,
+    "high": 65.0,
+    "low": 63.0,
+    "close": 64.0,
+    "volume": 1794410100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-08",
+    "open": 65.0,
+    "high": 71.0,
+    "low": 65.0,
+    "close": 70.0,
+    "volume": 13380124800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-09",
+    "open": 72.0,
+    "high": 73.0,
+    "low": 69.0,
+    "close": 71.0,
+    "volume": 6529828600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-10",
+    "open": 72.0,
+    "high": 72.0,
+    "low": 69.0,
+    "close": 70.0,
+    "volume": 3321535800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-11",
+    "open": 70.0,
+    "high": 70.0,
+    "low": 68.0,
+    "close": 68.0,
+    "volume": 3956062600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-12",
+    "open": 69.0,
+    "high": 69.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 6017508700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-15",
+    "open": 66.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 65.0,
+    "volume": 4882787900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-16",
+    "open": 65.0,
+    "high": 69.0,
+    "low": 64.0,
+    "close": 68.0,
+    "volume": 7444003400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-17",
+    "open": 68.0,
+    "high": 68.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 2632440600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-18",
+    "open": 65.0,
+    "high": 67.0,
+    "low": 65.0,
+    "close": 65.0,
+    "volume": 2169076500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-19",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 65.0,
+    "volume": 4051737900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-22",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 2113323700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-23",
+    "open": 65.0,
+    "high": 65.0,
+    "low": 63.0,
+    "close": 64.0,
+    "volume": 2589105200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-24",
+    "open": 64.0,
+    "high": 65.0,
+    "low": 63.0,
+    "close": 65.0,
+    "volume": 1422798300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-29",
+    "open": 65.0,
+    "high": 65.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 3075824400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2025-12-30",
+    "open": 64.0,
+    "high": 65.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 2456893000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-02",
+    "open": 64.0,
+    "high": 69.0,
+    "low": 63.0,
+    "close": 69.0,
+    "volume": 7020202800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-05",
+    "open": 69.0,
+    "high": 71.0,
+    "low": 67.0,
+    "close": 68.0,
+    "volume": 8987343900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-06",
+    "open": 68.0,
+    "high": 70.0,
+    "low": 67.0,
+    "close": 68.0,
+    "volume": 3387609800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-07",
+    "open": 68.0,
+    "high": 69.0,
+    "low": 66.0,
+    "close": 67.0,
+    "volume": 4281637900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-08",
+    "open": 67.0,
+    "high": 67.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 2604022900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-09",
+    "open": 66.0,
+    "high": 67.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 3299187600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-12",
+    "open": 67.0,
+    "high": 67.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 3384389300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-13",
+    "open": 66.0,
+    "high": 68.0,
+    "low": 65.0,
+    "close": 67.0,
+    "volume": 3132891700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-14",
+    "open": 68.0,
+    "high": 73.0,
+    "low": 68.0,
+    "close": 69.0,
+    "volume": 18437372600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-15",
+    "open": 69.0,
+    "high": 70.0,
+    "low": 67.0,
+    "close": 68.0,
+    "volume": 5561512700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-19",
+    "open": 67.0,
+    "high": 68.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 7028239800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-20",
+    "open": 66.0,
+    "high": 68.0,
+    "low": 65.0,
+    "close": 66.0,
+    "volume": 5220116600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-21",
+    "open": 65.0,
+    "high": 66.0,
+    "low": 64.0,
+    "close": 64.0,
+    "volume": 7269276700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-22",
+    "open": 64.0,
+    "high": 65.0,
+    "low": 61.0,
+    "close": 62.0,
+    "volume": 8304665000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-23",
+    "open": 62.0,
+    "high": 62.0,
+    "low": 58.0,
+    "close": 60.0,
+    "volume": 8845549400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-26",
+    "open": 60.0,
+    "high": 62.0,
+    "low": 59.0,
+    "close": 60.0,
+    "volume": 4896210800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-27",
+    "open": 60.0,
+    "high": 65.0,
+    "low": 58.0,
+    "close": 65.0,
+    "volume": 12307760600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-28",
+    "open": 62.0,
+    "high": 64.0,
+    "low": 58.0,
+    "close": 60.0,
+    "volume": 10963550000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-29",
+    "open": 60.0,
+    "high": 63.0,
+    "low": 55.0,
+    "close": 63.0,
+    "volume": 15220468500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-01-30",
+    "open": 63.0,
+    "high": 64.0,
+    "low": 62.0,
+    "close": 64.0,
+    "volume": 4190742000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-02",
+    "open": 64.0,
+    "high": 64.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 4681091200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-03",
+    "open": 61.0,
+    "high": 63.0,
+    "low": 61.0,
+    "close": 62.0,
+    "volume": 2063709800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-04",
+    "open": 62.0,
+    "high": 63.0,
+    "low": 61.0,
+    "close": 62.0,
+    "volume": 2039789700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-05",
+    "open": 62.0,
+    "high": 62.0,
+    "low": 60.0,
+    "close": 60.0,
+    "volume": 2841007700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-06",
+    "open": 60.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 60.0,
+    "volume": 2643183600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-09",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 60.0,
+    "volume": 1596488300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-10",
+    "open": 60.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 59.0,
+    "volume": 4569551300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-11",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 60.0,
+    "volume": 3907787700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-12",
+    "open": 60.0,
+    "high": 60.0,
+    "low": 59.0,
+    "close": 60.0,
+    "volume": 1419829400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-13",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 59.0,
+    "volume": 4200024900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-18",
+    "open": 59.0,
+    "high": 61.0,
+    "low": 58.0,
+    "close": 60.0,
+    "volume": 4716637100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-19",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 61.0,
+    "volume": 2247439900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-20",
+    "open": 61.0,
+    "high": 63.0,
+    "low": 61.0,
+    "close": 61.0,
+    "volume": 5194005200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-23",
+    "open": 62.0,
+    "high": 64.0,
+    "low": 61.0,
+    "close": 62.0,
+    "volume": 5794546700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-24",
+    "open": 63.0,
+    "high": 63.0,
+    "low": 60.0,
+    "close": 61.0,
+    "volume": 3555906000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-25",
+    "open": 61.0,
+    "high": 62.0,
+    "low": 60.0,
+    "close": 60.0,
+    "volume": 1364624900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-26",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 60.0,
+    "close": 60.0,
+    "volume": 2397940400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-02-27",
+    "open": 60.0,
+    "high": 61.0,
+    "low": 59.0,
+    "close": 61.0,
+    "volume": 5304076700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-02",
+    "open": 59.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 59.0,
+    "volume": 3939486600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-03",
+    "open": 59.0,
+    "high": 60.0,
+    "low": 58.0,
+    "close": 58.0,
+    "volume": 2822721700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-04",
+    "open": 58.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 57.0,
+    "volume": 5917788000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-05",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 56.0,
+    "close": 57.0,
+    "volume": 1945848400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-06",
+    "open": 58.0,
+    "high": 58.0,
+    "low": 55.0,
+    "close": 56.0,
+    "volume": 4466807200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-09",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 53.0,
+    "close": 55.0,
+    "volume": 6992951900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-10",
+    "open": 55.0,
+    "high": 57.0,
+    "low": 55.0,
+    "close": 55.0,
+    "volume": 3339213800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-11",
+    "open": 56.0,
+    "high": 58.0,
+    "low": 55.0,
+    "close": 57.0,
+    "volume": 2671797300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-12",
+    "open": 57.0,
+    "high": 58.0,
+    "low": 55.0,
+    "close": 56.0,
+    "volume": 3371578900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-13",
+    "open": 55.0,
+    "high": 56.0,
+    "low": 53.0,
+    "close": 55.0,
+    "volume": 3802932400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-16",
+    "open": 54.0,
+    "high": 54.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 6367062200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-17",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 51.0,
+    "volume": 4306491000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-25",
+    "open": 50.0,
+    "high": 53.0,
+    "low": 50.0,
+    "close": 53.0,
+    "volume": 9934206000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-26",
+    "open": 53.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 4495899400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-27",
+    "open": 51.0,
+    "high": 52.0,
+    "low": 51.0,
+    "close": 51.0,
+    "volume": 2800261100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-30",
+    "open": 51.0,
+    "high": 52.0,
+    "low": 50.0,
+    "close": 52.0,
+    "volume": 3209633400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-03-31",
+    "open": 51.0,
+    "high": 52.0,
+    "low": 51.0,
+    "close": 51.0,
+    "volume": 1837937600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-01",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 53.0,
+    "volume": 3587278100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-02",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 52.0,
+    "close": 53.0,
+    "volume": 1867843400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-06",
+    "open": 53.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 3043071700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-07",
+    "open": 52.0,
+    "high": 52.0,
+    "low": 51.0,
+    "close": 51.0,
+    "volume": 2472398300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-08",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 5218807000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-09",
+    "open": 52.0,
+    "high": 52.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 1148415900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-10",
+    "open": 52.0,
+    "high": 52.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 3341817300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-13",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 4235010800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-14",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 52.0,
+    "close": 52.0,
+    "volume": 1611484100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-15",
+    "open": 53.0,
+    "high": 53.0,
+    "low": 52.0,
+    "close": 52.0,
+    "volume": 2258999200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-16",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 51.0,
+    "close": 52.0,
+    "volume": 1887231700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-17",
+    "open": 52.0,
+    "high": 53.0,
+    "low": 52.0,
+    "close": 52.0,
+    "volume": 1112749400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-20",
+    "open": 52.0,
+    "high": 54.0,
+    "low": 52.0,
+    "close": 53.0,
+    "volume": 5355375400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-21",
+    "open": 54.0,
+    "high": 57.0,
+    "low": 53.0,
+    "close": 56.0,
+    "volume": 5512536000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-22",
+    "open": 56.0,
+    "high": 57.0,
+    "low": 55.0,
+    "close": 56.0,
+    "volume": 3432657000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-23",
+    "open": 57.0,
+    "high": 57.0,
+    "low": 53.0,
+    "close": 54.0,
+    "volume": 3728384800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-24",
+    "open": 54.0,
+    "high": 54.0,
+    "low": 52.0,
+    "close": 52.0,
+    "volume": 3359907700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-27",
+    "open": 53.0,
+    "high": 54.0,
+    "low": 52.0,
+    "close": 53.0,
+    "volume": 2799103600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-28",
+    "open": 53.0,
+    "high": 54.0,
+    "low": 53.0,
+    "close": 53.0,
+    "volume": 1376193600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-29",
+    "open": 56.0,
+    "high": 58.0,
+    "low": 55.0,
+    "close": 55.0,
+    "volume": 7685000300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-04-30",
+    "open": 56.0,
+    "high": 57.0,
+    "low": 53.0,
+    "close": 54.0,
+    "volume": 9260650700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-04",
+    "open": 50.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 51.0,
+    "volume": 26429459800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-05",
+    "open": 51.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 8111357900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-06",
+    "open": 51.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 4506998400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-07",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 2994335700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-08",
+    "open": 50.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 5975129800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-11",
+    "open": 50.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 1502970500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-12",
+    "open": 50.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 1918457200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-13",
+    "open": 50.0,
+    "high": 51.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 993936500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-14",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 0
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-15",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 0
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-18",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 1000157300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-19",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 345814000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-20",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 331704400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-21",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 323289500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-22",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 207040600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-25",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 217192000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-26",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 333371800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-27",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 0
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-28",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 0
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-05-29",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 2653923000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-02",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 398734700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-03",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 206119300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-04",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 163038900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-05",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 135370000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-08",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 105056400
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-09",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 560561200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-10",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 551225800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-11",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 139923300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-12",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 67675000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-15",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 201214700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-17",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 226317100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-18",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 854768600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-19",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 1265000600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-22",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 423123800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-23",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 122955000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-24",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 40325100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-25",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 104694300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-26",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 26584500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-29",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 29999300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-06-30",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 219752000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-01",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 36262600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-02",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 14003900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-03",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 15650300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-06",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 9798900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-07",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 15085800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-08",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 281960200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-09",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 303800100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-10",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 297837900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-13",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 41629800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-14",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 183101700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-15",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 17937000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-16",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 21756900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-17",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 37001600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-20",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 23732000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-21",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 17690100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-22",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 276642700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-23",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 45197200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-24",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 15073500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-27",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 16006100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-28",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 23434900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-29",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 117731100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-30",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 97133900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-07-31",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 45918300
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-03",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 46756100
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-04",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 46203700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-05",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 123652900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-06",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 35469600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-07",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 46708900
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-10",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 47265600
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-11",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 19202500
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-12",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 22086800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-13",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 19638700
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-14",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 9945800
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-18",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 37192200
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-08-19",
+    "open": 50.0,
+    "high": 50.0,
+    "low": 50.0,
+    "close": 50.0,
+    "volume": 10585100
+  }
+]
