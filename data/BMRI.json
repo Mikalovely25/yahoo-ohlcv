@@ -2507,7 +2507,16 @@
     "open": 4120.0,
     "high": 4130.0,
     "low": 4080.0,
-    "close": null,
+    "close": 4100.0,
     "volume": 51806600
+  },
+  {
+    "ticker": "BMRI",
+    "date": "2026-10-08",
+    "open": 4080.0,
+    "high": 4120.0,
+    "low": 4000.0,
+    "close": null,
+    "volume": 130849900
   }
 ]

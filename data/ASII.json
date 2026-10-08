@@ -2507,7 +2507,16 @@
     "open": 4820.0,
     "high": 4830.0,
     "low": 4770.0,
-    "close": null,
+    "close": 4780.0,
     "volume": 18474300
+  },
+  {
+    "ticker": "ASII",
+    "date": "2026-10-08",
+    "open": 4790.0,
+    "high": 4890.0,
+    "low": 4790.0,
+    "close": null,
+    "volume": 41894000
   }
 ]
