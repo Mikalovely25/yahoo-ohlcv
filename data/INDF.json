@@ -2687,7 +2687,16 @@
     "open": 6500.0,
     "high": 6725.0,
     "low": 6425.0,
-    "close": null,
+    "close": 6600.0,
     "volume": 6348000
+  },
+  {
+    "ticker": "INDF",
+    "date": "2026-11-05",
+    "open": 6600.0,
+    "high": 6850.0,
+    "low": 6600.0,
+    "close": null,
+    "volume": 4917300
   }
 ]
