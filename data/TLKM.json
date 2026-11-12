@@ -2732,7 +2732,16 @@
     "open": 2050.0,
     "high": 2080.0,
     "low": 2030.0,
-    "close": null,
+    "close": 2060.0,
     "volume": 61456500
+  },
+  {
+    "ticker": "TLKM",
+    "date": "2026-11-12",
+    "open": 2080.0,
+    "high": 2180.0,
+    "low": 2060.0,
+    "close": null,
+    "volume": 165747500
   }
 ]
