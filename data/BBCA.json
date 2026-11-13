@@ -2732,7 +2732,16 @@
     "open": 5325.0,
     "high": 5475.0,
     "low": 5275.0,
-    "close": null,
+    "close": 5475.0,
     "volume": 192936300
+  },
+  {
+    "ticker": "BBCA",
+    "date": "2026-11-13",
+    "open": 5475.0,
+    "high": 5650.0,
+    "low": 5425.0,
+    "close": null,
+    "volume": 218808600
   }
 ]
