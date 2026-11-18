@@ -2759,7 +2759,16 @@
     "open": 6850.0,
     "high": 7025.0,
     "low": 6850.0,
-    "close": null,
+    "close": 6925.0,
     "volume": 5695800
+  },
+  {
+    "ticker": "ICBP",
+    "date": "2026-11-18",
+    "open": 6950.0,
+    "high": 7075.0,
+    "low": 6925.0,
+    "close": null,
+    "volume": 6743600
   }
 ]
