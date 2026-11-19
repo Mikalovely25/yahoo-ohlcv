@@ -2777,7 +2777,16 @@
     "open": 2720.0,
     "high": 2740.0,
     "low": 2630.0,
-    "close": null,
+    "close": 2630.0,
     "volume": 82400400
+  },
+  {
+    "ticker": "ANTM",
+    "date": "2026-11-19",
+    "open": 2630.0,
+    "high": 2680.0,
+    "low": 2600.0,
+    "close": null,
+    "volume": 41043400
   }
 ]
