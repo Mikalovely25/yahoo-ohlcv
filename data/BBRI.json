@@ -2786,7 +2786,16 @@
     "open": 3040.0,
     "high": 3090.0,
     "low": 2980.0,
-    "close": null,
+    "close": 3090.0,
     "volume": 208973500
+  },
+  {
+    "ticker": "BBRI",
+    "date": "2026-11-20",
+    "open": 3060.0,
+    "high": 3090.0,
+    "low": 3020.0,
+    "close": null,
+    "volume": 144971400
   }
 ]

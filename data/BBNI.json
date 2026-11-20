@@ -2786,7 +2786,16 @@
     "open": 3570.0,
     "high": 3640.0,
     "low": 3500.0,
-    "close": null,
+    "close": 3580.0,
     "volume": 29088400
+  },
+  {
+    "ticker": "BBNI",
+    "date": "2026-11-20",
+    "open": 3570.0,
+    "high": 3600.0,
+    "low": 3530.0,
+    "close": null,
+    "volume": 23290700
   }
 ]
