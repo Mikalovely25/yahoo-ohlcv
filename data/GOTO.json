@@ -2813,7 +2813,16 @@
     "open": 26.0,
     "high": 27.0,
     "low": 26.0,
+    "close": 26.0,
+    "volume": 5908049000
+  },
+  {
+    "ticker": "GOTO",
+    "date": "2026-11-26",
+    "open": 26.0,
+    "high": 27.0,
+    "low": 26.0,
     "close": null,
-    "volume": 1613081704
+    "volume": 3871076600
   }
 ]
