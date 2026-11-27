@@ -2828,10 +2828,19 @@
   {
     "ticker": "INDF",
     "date": "2026-11-26",
-    "open": 7025.0,
+    "open": 7050.0,
     "high": 7175.0,
     "low": 7025.0,
+    "close": 7125.0,
+    "volume": 3266900
+  },
+  {
+    "ticker": "INDF",
+    "date": "2026-11-27",
+    "open": 7125.0,
+    "high": 7250.0,
+    "low": 7050.0,
     "close": null,
-    "volume": 3273600
+    "volume": 8499900
   }
 ]
